@@ -1,1 +1,1 @@
-{"version":"2.20261017.1248","notes":["Booking texts that say blow out, sprinkler, shut off or ask to get on the list now show up in Bookings instead of being skipped."]}
+{"version":"2.20261017.1306","notes":["Route map shows every stop: stops at the same address share one pin, missing pins are looked up when the Route opens, and any stop that still cannot be placed says No Map Pin."]}
