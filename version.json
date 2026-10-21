@@ -1,1 +1,1 @@
-{"version":"2.20261021.0705","notes":["Each device has two reminder dates: one for the annual backflow test and one for winterization. Change either date on the device card or in Edit Device.","Send Reminder lets you pick Backflow Test or Winterization. The message uses that date, and Mark Reminded records the one you picked."]}
+{"version":"2.20261021.0849","notes":["See More is now a circled ? next to the title. Tap the ? to read the full note."]}
