@@ -1,1 +1,1 @@
-{"version":"2.20261023.0730","notes":["Search no longer zooms the screen on iPhone when the keyboard closes.","When a search finds no customer, an Add Customer button starts a new customer with what you typed."]}
+{"version":"2.20261023.1142","notes":["Tapping a box to type no longer zooms the screen on iPhone.","If the screen ever stays zoomed after the keyboard closes, it snaps back to normal size."]}
