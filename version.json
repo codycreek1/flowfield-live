@@ -1,1 +1,1 @@
-{"version":"2.20261023.1744","notes":["Winterization now has three tabs: To Schedule, Scheduled and Done, each with a count.","Each address shows one colored label, like Needs a Day, Booked Tue 10/28 or Done 10/21.","Each address has one main button: Schedule, Blowout Complete or Undo. Everything else is under More."]}
+{"version":"2.20261023.1954","notes":["Auto Spread keeps neighbors on the same street together on one day (for example, all of Stoneybrook Cir)."]}
